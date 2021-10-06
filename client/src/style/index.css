@@ -1,0 +1,31 @@
+/* ---------- Auth Page------------ */
+@import url('./auth.css');
+
+/* ---------- Loading Page------------ */
+@import url('./loading.css');
+
+/* ---------- Alert Page------------ */
+@import url('./alert.css');
+
+/* ---------- Profile Page------------ */
+@import url('./profile.css');
+
+/* ---------- Home Page------------ */
+@import url('./home.css');
+
+/* ---------- Category Page------------ */
+@import url('./category.css');
+
+/* ---------- Blogs Category Page------------ */
+@import url('./blogs_category.css');
+
+/* ---------- Comments ------------ */
+@import url('./comments.css');
+
+.avatar {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    transform: translateY(-3px);
+    border-radius: 50%;
+}
